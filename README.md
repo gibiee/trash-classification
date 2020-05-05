@@ -17,4 +17,5 @@
 
 ## 참고자료
 - https://towardsdatascience.com/how-to-build-an-image-classifier-for-waste-sorting-6d11d3c9c478
-- https://github.com/collindching/Waste-Sorter
+  (https://github.com/collindching/Waste-Sorter)
+- CNN에 대한 이론 설명 : https://bcho.tistory.com/tag/VGG
